@@ -2,7 +2,7 @@
     "name": "zinntikumugai/insight-api-php",
     "description": "Using insight api library",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-only",
     "keywords": [
         "insight",
         "crypto",

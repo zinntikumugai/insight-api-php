@@ -10,7 +10,7 @@ insight-api php library
 comming soon
 
 # License
-MIT License
+GPL v3.0 License
 
 # Donation
 ### BitZeny
