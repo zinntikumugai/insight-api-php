@@ -1,2 +1,4 @@
 service_name: travis-pro
 repo_token: 7PdEEYhpR8wL4gE5yw3AsMWIAb4766b7q
+coverage_clover: tests/_output/coverage.xml
+json_path: tests/_output/coveralls-upload.json
