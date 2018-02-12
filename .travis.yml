@@ -4,7 +4,7 @@ php:
     - 7.2.0
 
 install:
-    - composer install --dev --no-interaction
+    - composer install
     - ./vendor/bin/codecept build
 
 sudo: false
@@ -22,4 +22,4 @@ branches:
     - master
 
 after_script:
-  - travis_retry php vendor/bin/coveralls
+  - travis_retry php vendor/bin/php-coveralls
