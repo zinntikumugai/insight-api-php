@@ -4,7 +4,7 @@ php:
     - 7.2.0
 
 install:
-    - composer install
+    - composer install --dev --no-interaction
     - ./vendor/bin/codecept build
 
 sudo: false
