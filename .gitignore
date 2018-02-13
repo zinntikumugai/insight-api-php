@@ -1,4 +1,6 @@
-vendor/
-vendor
-test
+/vendor/
+
 test/
+/composer.lock
+
+tests/_output/*
